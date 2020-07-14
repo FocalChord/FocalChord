@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://fc-counter.azurewebsites.net/count.svg" alt="" /></td>
+  </tr>
+</table>
+
 <!--
 **FocalChord/FocalChord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
